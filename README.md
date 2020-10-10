@@ -1,9 +1,10 @@
 
 # CKAD-Bookmarks
 
-Supports Kubernetes v1.19
+
 
 Bookmark file for reference notes for [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/)
+Supports Kubernetes v1.19
 
 Steps to use the bookmark
 ```
