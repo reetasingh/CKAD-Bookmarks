@@ -12,6 +12,3 @@ import bookmarks file named kubernetes.io.html directly in chrome browser
 
 ```
 Bookmark is sorted alphabetically and the links take to exact code to copy.
-
-
-# If you like this repo please star it
