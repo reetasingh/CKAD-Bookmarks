@@ -11,4 +11,4 @@ Steps to use the bookmark
 import bookmarks file named kubernetes.io.html directly in chrome browser
 
 ```
-Bookmark is sorted alphabetically (so you dont have to spend time in fnding the right bookmark ) and the links take to exact code to copy.
+Bookmark is sorted alphabetically (so you dont have to spend time in finding the right bookmark ) and the links take to exact code to copy.
