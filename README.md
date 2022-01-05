@@ -15,4 +15,5 @@ Bookmark is sorted alphabetically (so you dont have to spend time in finding the
 
 
 # CKA Bookmarks repo
+Appearing for Certified Kubernetes Adminstrator exam?  There is a bookmark file for that too. 
 https://github.com/reetasingh/CKA-Bookmarks
