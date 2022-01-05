@@ -12,3 +12,7 @@ import bookmarks file named kubernetes.io.html directly in chrome browser
 
 ```
 Bookmark is sorted alphabetically (so you dont have to spend time in finding the right bookmark ) and the links take to exact code to copy.
+
+
+# CKA Bookmarks repo
+https://github.com/reetasingh/CKA-Bookmarks
