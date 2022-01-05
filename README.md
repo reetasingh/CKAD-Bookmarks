@@ -15,5 +15,5 @@ Bookmark is sorted alphabetically (so you dont have to spend time in finding the
 
 
 # CKA Bookmarks repo
-Appearing for Certified Kubernetes Adminstrator (CKA) exam?  There is a bookmark file for that too. 
+Appearing for Certified Kubernetes Adminstrator (CKA) exam instead of CKAD?  There is a bookmark repo for that too. 
 https://github.com/reetasingh/CKA-Bookmarks
