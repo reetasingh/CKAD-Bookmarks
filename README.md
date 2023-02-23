@@ -8,7 +8,7 @@ Supports Kubernetes v1.19
 
 Steps to use the bookmark :
 
--  Right Click on the file ```kubernetes.io.html``` and ``` Save link as```, save the file to your local drive.
+-  Right Click on the file: [kubernetes.io.html](https://raw.githubusercontent.com/reetasingh/CKAD-Bookmarks/master/kubernetes.io.html) and click ``` Save link as``` to save the bookmarks file to your local drive.
 -  On the Chrome Browser, click the three dots at the top right, go to ```Bookmarks``` and click the ```Import bookmarks and settings..```.
 -  Select ```Bookmarks HTML file``` file from the drop-down menu.
 -  ```Choose file``` and select the previously downloaded file, click ```Open```.
